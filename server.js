@@ -1,3 +1,5 @@
+// Tested with Postman. But Couldn't connect to frontend.
+
 const express = require("express");
 const app = express();
 const bodyParser = require("body-parser");
